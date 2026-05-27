@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheuncrypt",
+        "uuid": 1810928,
+        "checksum": "sv0qw"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
